@@ -2,7 +2,7 @@
   "name": "Linux Mint",
   "service": "qemu",
   "containerEnv": {
-    "BOOT": "https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-13.2.0-amd64-kde.iso"
+    "BOOT": "https://distro.ibiblio.org/puppylinux/puppy-fossa/F96-CE.htm"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
