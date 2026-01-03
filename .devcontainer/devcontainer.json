@@ -2,7 +2,7 @@
   "name": "Linux Mint",
   "service": "qemu",
   "containerEnv": {
-    "BOOT": "mint"
+    "BOOT": "https://distro.ibiblio.org/puppylinux/puppy-fossa/F96-CE.htm"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
